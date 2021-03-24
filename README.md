@@ -1,0 +1,1 @@
+metodos-entrada-consulta
